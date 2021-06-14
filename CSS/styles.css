@@ -17,7 +17,7 @@ nav{
 /*===================================
 Grid Layout
 ====================================*/
-.grid{
+.gallery{
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, max-content));
     grid-template-rows: 1fr 1fr 1fr;
@@ -26,7 +26,4 @@ Grid Layout
     padding: 25px;
     justify-content: center;
     margin: auto;
-}
-.thumnail{
-
 }
