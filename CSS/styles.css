@@ -1,0 +1,21 @@
+
+.navbar{
+    margin: auto;
+    border-radius: 5px;
+}
+
+/*===================================
+Grid Layout
+====================================*/
+.grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, max-content));
+    grid-template-rows: 1fr 1fr 1fr;
+    max-width: 1000px;
+    grid-gap: 15px;
+    padding: 25px;
+    justify-content: center;
+}
+.thumnail{
+
+}
