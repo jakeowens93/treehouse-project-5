@@ -1,3 +1,6 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
 nav{
     text-align: center;
     padding: 20px;
@@ -6,6 +9,9 @@ nav{
     margin-left: auto;
     margin-right: auto;
     width: 60%;
+    padding: 10px;
+    border-radius: 9px;
+    border-color: rgb(156, 156, 156);
 }
 
 /*===================================
