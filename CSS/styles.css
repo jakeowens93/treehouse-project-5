@@ -1,7 +1,11 @@
-
-.navbar{
-    margin: auto;
-    border-radius: 5px;
+nav{
+    text-align: center;
+    padding: 20px;
+}
+.searchbar{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
 }
 
 /*===================================
@@ -15,6 +19,7 @@ Grid Layout
     grid-gap: 15px;
     padding: 25px;
     justify-content: center;
+    margin: auto;
 }
 .thumnail{
 
